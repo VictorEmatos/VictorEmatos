@@ -11,8 +11,6 @@
 ## 📫 Como me encontrar:
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" />
-- LinkedIn: [seu perfil](link)
-- Email: [seu email](link)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmatos&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)
 
