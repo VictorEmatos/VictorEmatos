@@ -9,6 +9,8 @@
 - [Projeto 2](link): Outra descrição interessante do que você está criando.
 
 ## 📫 Como me encontrar:
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-25D366?style=for-the-badge&logo=Gmail&logoColor=white" />
 - LinkedIn: [seu perfil](link)
 - Email: [seu email](link)
 
