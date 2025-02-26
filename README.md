@@ -5,8 +5,8 @@
 <br>
 <br>
 ## 🚀 Projetos:
-- [Projeto 1](https://victorematos.github.io/): Uma descrição breve do que é.
-- [Projeto 2](link): Outra descrição interessante do que você está criando.
+- (https://victorematos.github.io/): Uma descrição breve do que é.
+- (link): Outra descrição interessante do que você está criando.
 
 
 
