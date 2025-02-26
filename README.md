@@ -8,9 +8,7 @@
 - [Projeto 1](https://victorematos.github.io/): Uma descrição breve do que é.
 - [Projeto 2](link): Outra descrição interessante do que você está criando.
 
-## 📫 Como me encontrar:
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" />
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmatos&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)
 
@@ -23,4 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" />
 
