@@ -16,7 +16,7 @@
 - LinkedIn: [seu perfil](link)
 - Email: [seu email](link)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmatos&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEmatos&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmatos&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)
 
 
 <p>
