@@ -5,7 +5,7 @@
 - Estou sempre aprendendo algo novo e colaborando em projetos open-source.
 
 ## 🚀 Projetos:
-- [Projeto 1](link): Uma descrição breve do que é.
+- [Projeto 1](https://victorematos.github.io/): Uma descrição breve do que é.
 - [Projeto 2](link): Outra descrição interessante do que você está criando.
 
 ## 📚 Tecnologias:
