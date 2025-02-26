@@ -1,9 +1,9 @@
-# Olá, eu sou o Victor Ematos 👋
-
-## 🧑‍💻 Sobre mim:
-- Sou desenvolvedor apaixonado por [linguagens/tecnologias que você usa].
-- Estou sempre aprendendo algo novo e colaborando em projetos open-source.
-
+ <div align="center">
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Victor+Emanuel;Passionate+about+data+and+AI" alt="Typing SVG">
+   </a>
+<br>
+<br>
 ## 🚀 Projetos:
 - [Projeto 1](https://victorematos.github.io/): Uma descrição breve do que é.
 - [Projeto 2](link): Outra descrição interessante do que você está criando.
