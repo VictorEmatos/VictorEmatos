@@ -8,10 +8,6 @@
 - [Projeto 1](https://victorematos.github.io/): Uma descrição breve do que é.
 - [Projeto 2](link): Outra descrição interessante do que você está criando.
 
-## 📚 Tecnologias:
-- Linguagens: Python, JavaScript, etc.
-- Frameworks: React, Node.js, etc.
-
 ## 📫 Como me encontrar:
 - LinkedIn: [seu perfil](link)
 - Email: [seu email](link)
