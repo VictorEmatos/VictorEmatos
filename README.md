@@ -8,7 +8,7 @@
 <br><br><br><br>
 🚀 Projetos:<br><br>
 https://victorematos.github.io/   -   Não Clique :)<br>
-(link) Outra descrição interessante do que você está criando.<br><br><br><br><br>
+https://github.com/VictorEmatos/TCC___SENAI   -   Segue minha Organização ;)<br><br><br><br><br>
 
 
 
