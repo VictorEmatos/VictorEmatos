@@ -1,12 +1,14 @@
+<br><br>
  <div align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Victor+Emanuel;Passionate+about+data+and+AI" alt="Typing SVG">
    </a>
 <br>
 <br>
+<br><br><br><br><br><br><br>
 🚀 Projetos:<br>
 https://victorematos.github.io/ Uma descrição breve do que é.<br>
-(link) Outra descrição interessante do que você está criando.<br><br>
+(link) Outra descrição interessante do que você está criando.<br><br><br><br><br>
 
 
 
