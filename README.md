@@ -4,9 +4,9 @@
    </a>
 <br>
 <br>
-## 🚀 Projetos:
-- (https://victorematos.github.io/): Uma descrição breve do que é.
-- (link): Outra descrição interessante do que você está criando.
+🚀 Projetos:<br>
+https://victorematos.github.io/ Uma descrição breve do que é.<br>
+(link) Outra descrição interessante do que você está criando.<br><br>
 
 
 
