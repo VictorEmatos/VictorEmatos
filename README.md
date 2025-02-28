@@ -1,7 +1,7 @@
 <br><br>
  <div align="center">
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Victor+Emanuel;Passionate+about+web+development" alt="Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Victor+Emanuel;Passionate+about+Web+development" alt="Typing SVG">
    </a>
 <br>
 <br>
