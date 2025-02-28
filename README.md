@@ -12,7 +12,7 @@ https://abrir.link/sdhgi   -   Segue minha Organização<br><br><br><br><br>
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorEmatos&bg_color=0d1117&color=ffffff&line=1b15d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmatos&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
 
 <p>
