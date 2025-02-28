@@ -7,8 +7,10 @@
 <br>
 <br><br><br><br>
 🚀 Projetos:<br><br>
-https://abrir.link/gmcHA   -   Não Clique :)<br>
-https://abrir.link/sdhgi   -   Segue minha Organização<br><br><br><br><br>
+  Segue meu site :)<br>
+https://abrir.link/gmcHA<br>
+  Segue minha organização do meu projeto - TCC<br>
+https://abrir.link/sdhgi<br><br><br><br>
 
 
 
