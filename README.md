@@ -8,9 +8,9 @@
 <br><br><br><br>
 🚀 Projetos:<br><br>
   Segue meu site :)<br>
-https://abrir.link/gmcHA<br>
+https://victorematos.github.io/<br>
   Segue minha organização do meu projeto - TCC<br>
-https://abrir.link/sdhgi<br><br><br><br>
+https://github.com/VictorEmatos/TCC___SENAI<br><br><br><br>
 
 
 
